@@ -1,0 +1,17 @@
+#home {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9Vwqs9kQzsdVUvkwOnk2dd8uRBNgeESdVhmbNnlFz8Q6D--c');
+    background-size: 100%;
+    height: 800px;
+}
+
+#title {
+    color: gold;
+}
+
+ul {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
